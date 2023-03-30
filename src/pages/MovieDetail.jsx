@@ -28,7 +28,7 @@ export const MovieDetail = () => {
             : `${BackupImage}`
         }
         alt={movie.poster_path}
-        className="w-[380px] h-[580px] rounded-md mx-16"
+        className="max-w-7xl rounded-md mx-16"
       />
       <div className="flex flex-col mx-6">
         <span className="text-4xl font-bold max-sm:text-center max-md:text-center mt-5 dark:text-slate-100">
