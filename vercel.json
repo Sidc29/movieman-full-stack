@@ -4,7 +4,7 @@
     { "src": "/popular", "dest": "/" },
     { "src": "/top", "dest": "/" },
     { "src": "/upcoming", "dest": "/" },
-    { "src": "/movie", "dest": "/" },
+    { "src": "/[^.]+", "dest": "/" },
     { "src": "/search", "dest": "/" }
   ]
 }
