@@ -6,6 +6,13 @@ This project is a movie website built using React and Tailwind CSS, designed to 
 The website uses an external movie API to provide users with access to a vast database of movies. This ensures that the website stays up-to-date with the latest movie releases, offering users a comprehensive selection of movies to explore.
 
 The website is highly responsive and user-friendly, adapting to different screen sizes and device types, including desktops, laptops, tablets, and smartphones. It also features a dark mode option that makes it easier to browse and watch movies in low-light conditions.
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`VITE_REACT_APP_API_KEY`
+
+
 ## Demo
 
 https://movieman.vercel.app/
@@ -23,6 +30,14 @@ To install MovieMan, you need to have [Node.js](https://nodejs.org/en/) and [npm
 4. Start the app using Vite: npm run dev
 
 This will start the app in development mode with Vite, which provides faster build times and better hot reloading than traditional bundlers like Webpack.
+
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`VITE_REACT_APP_API_KEY`
+
 
 ## Usage
 
