@@ -35,5 +35,5 @@ If you would like to contribute to MovieMan, feel free to submit a pull request.
 
 ## License
 
-MovieMan is licensed under the[MIT](https://choosealicense.com/licenses/mit/)
+MovieMan is licensed under the [MIT](https://choosealicense.com/licenses/mit/)
 
