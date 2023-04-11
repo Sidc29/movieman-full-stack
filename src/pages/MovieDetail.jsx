@@ -6,7 +6,7 @@ import BackupImage from "../assets/images/backup.png";
 export const MovieDetail = () => {
   const [movie, setMovie] = useState({});
   const params = useParams();
-  const pageTitle = useTitle(`${movie.title} - MovieMan`);
+  const pageTitle = useTitle(`${movie.title}`);
 
   const url = `https://api.themoviedb.org/3/movie/${params.id}?api_key=${
     import.meta.env.VITE_REACT_APP_API_KEY
