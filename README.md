@@ -1,5 +1,5 @@
 
-# Introduction
+# MovieMan - Browse and Search Movies (MERN Stack)
 
 This project is a movie website built using React and Tailwind CSS, designed to provide a seamless movie browsing experience. Users can filter and display movies based on their preferences, with filter options including now playing, popular, top-rated, and upcoming movies. The website also features a search functionality that enables users to search for movies based on titles, actors, or genres.
 
@@ -23,11 +23,11 @@ To install MovieMan, you need to have [Node.js](https://nodejs.org/en/) and [npm
 
 1. Clone this repository to your local machine using the following command: git clone https://github.com/sidc29/movieman-full-stack.git
 
-2. Change into the MovieMan directory: cd MovieMan
+2. Change into the MovieMan directory: `cd MovieMan`
 
-3. Install the required dependencies: npm install
+3. Install the required dependencies: `npm install`
 
-4. Start the app using Vite: npm run dev
+4. Start the app using Vite: `npm run dev`
 
 This will start the app in development mode with Vite, which provides faster build times and better hot reloading than traditional bundlers like Webpack.
 
